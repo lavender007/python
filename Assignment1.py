@@ -18,3 +18,5 @@ length = 48
 width = 25
 area = (length * width)
 print("This is area", area)
+
+
