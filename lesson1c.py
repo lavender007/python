@@ -36,5 +36,5 @@ print("The floor division of the two numbers is:", floor)
 #exponent(**)
 #The power of a number
 number11 = 10
-exponent = number 11 **2
+exponent = number11 **2
 print("The exponent of a number is:",exponent)
