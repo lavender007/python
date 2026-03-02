@@ -11,4 +11,4 @@ print("This is the simple interest", simpleinterest)
 
 #2.Find the area and perimiter of a rectangle whose length is 48cm and width is 25cm
 
-# Resarc on python list, tuple and dictionary and data types.
+# Resarch on python list, tuple and dictionary and data types.
